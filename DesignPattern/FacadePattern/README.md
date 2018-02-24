@@ -36,7 +36,6 @@ class TaxiDriver {
     car.pressAcclerator()
 
     // ...
-
     // 목적지 도착
     car.releaseAccelerator()
     car.pressBrakes()
