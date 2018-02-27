@@ -11,10 +11,13 @@
 <!-- - [Heap Sort - 힙 정렬](./Sorting/HeapSort) -->
 
 ## DataStructures
-### Queues
+### Queue
   - [Queue - 큐](./DataStructures/Queues/Queue)
   - [Priority Queue - 우선순위 큐](./DataStructures/Queues/PriorityQueue)
 
+### List
+  - [Linked List - 연결 리스트](./DataStructures/Lists/LinkedList)
+  
 ## DesignPattern
   - [MVC 패턴](/DesignPattern/MVCPattern/)
   - [싱글톤 패턴](./DesignPattern/SingletonPattern)
