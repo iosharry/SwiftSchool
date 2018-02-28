@@ -17,7 +17,11 @@
 
 ### List
   - [Linked List - 연결 리스트](./DataStructures/Lists/LinkedList)
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 3900a15c6c71752b33f3773e992e38e2b99dec03
 ## DesignPattern
   - [MVC 패턴](/DesignPattern/MVCPattern/)
   - [싱글톤 패턴](./DesignPattern/SingletonPattern)
