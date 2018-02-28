@@ -8,7 +8,6 @@
   - [Quick Sort - 퀵 정렬](./Algorithms/Sorting/QuickSort)
   - [Merge Sort - 병합 정렬](./Algorithms/Sorting/MergeSort)
   - [Bubble Sort - 버블 정렬](./Algorithms/Sorting/BubbleSort)
-<!-- - [Heap Sort - 힙 정렬](./Sorting/HeapSort) -->
 
 ## DataStructures
 ### Queue
