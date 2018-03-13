@@ -19,6 +19,7 @@
 
 ### Trees
   - [Tree - 트리](./DataStructures/Trees/Tree)
+  - [Binary Tree - 이진 트리](./DataStructures/Trees/BinaryTree)
 
 ### Graph
   - [BFS - 너비 우선 검색](./DataStructures/Graphs/BFS)
