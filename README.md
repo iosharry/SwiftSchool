@@ -17,6 +17,9 @@
 ### List
   - [Linked List - 연결 리스트](./DataStructures/Lists/LinkedList)
 
+### Trees
+  - [Tree - 트리](./DataStructures/Trees/Tree)
+
 ### Graph
   - [BFS - 너비 우선 검색](./DataStructures/Graphs/BFS)
 
@@ -29,3 +32,4 @@
   - [스트래티지 패턴](./DesignPattern/StrategyPattern)
   - [어댑터 패턴](./DesignPattern/AdapterPattern)
   - [데코레이터 패턴](./DesignPattern/DecoratorPattern)
+ 
