@@ -23,6 +23,7 @@
 
 ### Graph
   - [BFS - 너비 우선 검색](./DataStructures/Graphs/BFS)
+  - [DFS - 깊이 우선 탐색](./DataStructures/Graphs/DFS)
 
 ## DesignPattern
   - [MVC 패턴](/DesignPattern/MVCPattern/)
