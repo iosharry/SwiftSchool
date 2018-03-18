@@ -3,7 +3,7 @@
 
 데코레이터라는 말 처럼 어떤 것에 추가적인 장식. 즉, 기능 확장이 필요할 때 사용하며 서브클래싱 대신 쓸 수 있는 유연한 패턴이다.
 
-![decoratorpattern](https://user-images.githubusercontent.com/33976758/37082431-e625f6da-222f-11e8-8a86-63a6c4c2ca9d.png)
+<img src="https://user-images.githubusercontent.com/33976758/37082431-e625f6da-222f-11e8-8a86-63a6c4c2ca9d.png" width="400" height="200">
 
 #### 사용 시기
 
