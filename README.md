@@ -2,6 +2,10 @@
 
 ## Algorithms
 
+### Searching 
+  - [Linear Search - 선형검색](./Algorithms/Searching/LinearSearch)
+  - [Binary Search - 이진검색](./Algorithms/Searching/BinarySearch)
+ 
 ### Sorting
   - [Insertion Sort - 삽입정렬](./Algorithms/Sorting/InsertionSort)
   - [Selection Sort - 선택정렬](./Algorithms/Sorting/SelectionSort)
